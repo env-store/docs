@@ -6,8 +6,8 @@
     "title": "About",
     "type": "page"
   },
-  "contact": {
-    "title": "Contact ↗",
+  "issues": {
+    "title": "Issues ↗",
     "type": "page",
     "href": "https://twitter.com/shuding_",
     "newWindow": true
